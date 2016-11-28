@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MSS Sensor Game</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="play_game_in_active_mode">Play Game in Active mode</string>
+    <string name="title_activity_active_game_mode">ActiveGameMode</string>
+    <string name="sensor">Sensor</string>
+    <string name="key">Key</string>
+    <string name="value">Value</string>
+    <string name="match">Match</string>
+    <string name="accel">Accel</string>
+    <string name="gyro">Gyro</string>
+    <string name="gps">Gps</string>
+
+</resources>

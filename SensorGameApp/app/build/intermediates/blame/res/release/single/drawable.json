@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/deepakgupta/Videos/Sensor-App/sensor-app/SensorGameApp/app/build/intermediates/res/merged/release/drawable/star.png",
+        "source": "/home/deepakgupta/Videos/Sensor-App/sensor-app/SensorGameApp/app/src/main/res/drawable/star.png"
+    },
+    {
+        "merged": "/home/deepakgupta/Videos/Sensor-App/sensor-app/SensorGameApp/app/build/intermediates/res/merged/release/drawable/custom_button_border.xml",
+        "source": "/home/deepakgupta/Videos/Sensor-App/sensor-app/SensorGameApp/app/src/main/res/drawable/custom_button_border.xml"
+    }
+]

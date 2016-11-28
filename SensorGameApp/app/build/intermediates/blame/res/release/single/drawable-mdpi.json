@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/deepakgupta/Videos/Sensor-App/sensor-app/SensorGameApp/app/build/intermediates/res/merged/release/drawable-mdpi/splash.png",
+        "source": "/home/deepakgupta/Videos/Sensor-App/sensor-app/SensorGameApp/app/src/main/res/drawable-mdpi/splash.png"
+    },
+    {
+        "merged": "/home/deepakgupta/Videos/Sensor-App/sensor-app/SensorGameApp/app/build/intermediates/res/merged/release/drawable-mdpi/ic_launcher.png",
+        "source": "/home/deepakgupta/Videos/Sensor-App/sensor-app/SensorGameApp/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    }
+]
