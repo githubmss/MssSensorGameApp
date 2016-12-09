@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/deepakgupta/Videos/Sensor-App/SensorGameApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "outputFile": "/home/deepakgupta/Videos/git_MssSensorGame/MssSensorGameApp/SensorGameApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
         "map": [
             {
                 "to": {
@@ -11,220 +11,7 @@
                     "endOffset": 108
                 },
                 "from": {
-                    "file": "/home/deepakgupta/Videos/Sensor-App/SensorGameApp/app/src/main/res/values/dimens.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 113,
-                    "endColumn": 55,
-                    "endOffset": 164
-                },
-                "from": {
-                    "file": "/home/deepakgupta/Videos/Sensor-App/SensorGameApp/app/src/main/res/values/dimens.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 169,
-                    "endColumn": 39,
-                    "endOffset": 204
-                },
-                "from": {
-                    "file": "/home/deepakgupta/Videos/Sensor-App/SensorGameApp/app/src/main/res/values/strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 209,
-                    "endColumn": 52,
-                    "endOffset": 257
-                },
-                "from": {
-                    "file": "/home/deepakgupta/Videos/Sensor-App/SensorGameApp/app/src/main/res/values/strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 262,
-                    "endColumn": 52,
-                    "endOffset": 310
-                },
-                "from": {
-                    "file": "/home/deepakgupta/Videos/Sensor-App/SensorGameApp/app/src/main/res/values/strings.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 56,
-                        "endColumn": 52,
-                        "endOffset": 104
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 315,
-                    "endColumn": 35,
-                    "endOffset": 346
-                },
-                "from": {
-                    "file": "/home/deepakgupta/Videos/Sensor-App/SensorGameApp/app/src/main/res/values/strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 351,
-                    "endColumn": 37,
-                    "endOffset": 384
-                },
-                "from": {
-                    "file": "/home/deepakgupta/Videos/Sensor-App/SensorGameApp/app/src/main/res/values/strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 389,
-                    "endColumn": 52,
-                    "endOffset": 437
-                },
-                "from": {
-                    "file": "/home/deepakgupta/Videos/Sensor-App/SensorGameApp/app/src/main/res/values/strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 442,
-                    "endColumn": 35,
-                    "endOffset": 473
-                },
-                "from": {
-                    "file": "/home/deepakgupta/Videos/Sensor-App/SensorGameApp/app/src/main/res/values/strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 11,
-                    "startColumn": 4,
-                    "startOffset": 478,
-                    "endColumn": 39,
-                    "endOffset": 513
-                },
-                "from": {
-                    "file": "/home/deepakgupta/Videos/Sensor-App/SensorGameApp/app/src/main/res/values/strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 12,
-                    "startColumn": 4,
-                    "startOffset": 518,
-                    "endColumn": 77,
-                    "endOffset": 591
-                },
-                "from": {
-                    "file": "/home/deepakgupta/Videos/Sensor-App/SensorGameApp/app/src/main/res/values/strings.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 215,
-                        "endColumn": 77,
-                        "endOffset": 288
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 13,
-                    "startColumn": 4,
-                    "startOffset": 596,
-                    "endColumn": 41,
-                    "endOffset": 633
-                },
-                "from": {
-                    "file": "/home/deepakgupta/Videos/Sensor-App/SensorGameApp/app/src/main/res/values/strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 14,
-                    "startColumn": 4,
-                    "startOffset": 638,
-                    "endColumn": 74,
-                    "endOffset": 708
-                },
-                "from": {
-                    "file": "/home/deepakgupta/Videos/Sensor-App/SensorGameApp/app/src/main/res/values/strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 15,
-                    "startColumn": 4,
-                    "startOffset": 713,
-                    "endColumn": 39,
-                    "endOffset": 748
-                },
-                "from": {
-                    "file": "/home/deepakgupta/Videos/Sensor-App/SensorGameApp/app/src/main/res/values/strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 16,
-                    "startColumn": 4,
-                    "startOffset": 753,
-                    "endLine": 18,
-                    "endColumn": 12,
-                    "endOffset": 831
-                },
-                "from": {
-                    "file": "/home/deepakgupta/Videos/Sensor-App/SensorGameApp/app/src/main/res/values/styles.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 19,
-                    "startColumn": 4,
-                    "startOffset": 836,
-                    "endLine": 21,
-                    "endColumn": 12,
-                    "endOffset": 903
-                },
-                "from": {
-                    "file": "/home/deepakgupta/Videos/Sensor-App/SensorGameApp/app/src/main/res/values/styles.xml"
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "/home/deepakgupta/Videos/Sensor-App/sensor-app/SensorGameApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 57,
-                    "endOffset": 108
-                },
-                "from": {
-                    "file": "/home/deepakgupta/Videos/Sensor-App/sensor-app/SensorGameApp/app/src/main/res/values/dimens.xml",
+                    "file": "/home/deepakgupta/Videos/git_MssSensorGame/MssSensorGameApp/SensorGameApp/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -243,7 +30,7 @@
                     "endOffset": 164
                 },
                 "from": {
-                    "file": "/home/deepakgupta/Videos/Sensor-App/sensor-app/SensorGameApp/app/src/main/res/values/dimens.xml",
+                    "file": "/home/deepakgupta/Videos/git_MssSensorGame/MssSensorGameApp/SensorGameApp/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -262,7 +49,7 @@
                     "endOffset": 204
                 },
                 "from": {
-                    "file": "/home/deepakgupta/Videos/Sensor-App/sensor-app/SensorGameApp/app/src/main/res/values/strings.xml",
+                    "file": "/home/deepakgupta/Videos/git_MssSensorGame/MssSensorGameApp/SensorGameApp/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -281,7 +68,7 @@
                     "endOffset": 257
                 },
                 "from": {
-                    "file": "/home/deepakgupta/Videos/Sensor-App/sensor-app/SensorGameApp/app/src/main/res/values/strings.xml",
+                    "file": "/home/deepakgupta/Videos/git_MssSensorGame/MssSensorGameApp/SensorGameApp/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -300,7 +87,7 @@
                     "endOffset": 310
                 },
                 "from": {
-                    "file": "/home/deepakgupta/Videos/Sensor-App/sensor-app/SensorGameApp/app/src/main/res/values/strings.xml",
+                    "file": "/home/deepakgupta/Videos/git_MssSensorGame/MssSensorGameApp/SensorGameApp/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -319,7 +106,7 @@
                     "endOffset": 346
                 },
                 "from": {
-                    "file": "/home/deepakgupta/Videos/Sensor-App/sensor-app/SensorGameApp/app/src/main/res/values/strings.xml",
+                    "file": "/home/deepakgupta/Videos/git_MssSensorGame/MssSensorGameApp/SensorGameApp/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -338,7 +125,7 @@
                     "endOffset": 384
                 },
                 "from": {
-                    "file": "/home/deepakgupta/Videos/Sensor-App/sensor-app/SensorGameApp/app/src/main/res/values/strings.xml",
+                    "file": "/home/deepakgupta/Videos/git_MssSensorGame/MssSensorGameApp/SensorGameApp/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -357,7 +144,7 @@
                     "endOffset": 437
                 },
                 "from": {
-                    "file": "/home/deepakgupta/Videos/Sensor-App/sensor-app/SensorGameApp/app/src/main/res/values/strings.xml",
+                    "file": "/home/deepakgupta/Videos/git_MssSensorGame/MssSensorGameApp/SensorGameApp/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -376,7 +163,7 @@
                     "endOffset": 473
                 },
                 "from": {
-                    "file": "/home/deepakgupta/Videos/Sensor-App/sensor-app/SensorGameApp/app/src/main/res/values/strings.xml",
+                    "file": "/home/deepakgupta/Videos/git_MssSensorGame/MssSensorGameApp/SensorGameApp/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -395,7 +182,7 @@
                     "endOffset": 513
                 },
                 "from": {
-                    "file": "/home/deepakgupta/Videos/Sensor-App/sensor-app/SensorGameApp/app/src/main/res/values/strings.xml",
+                    "file": "/home/deepakgupta/Videos/git_MssSensorGame/MssSensorGameApp/SensorGameApp/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -414,7 +201,7 @@
                     "endOffset": 591
                 },
                 "from": {
-                    "file": "/home/deepakgupta/Videos/Sensor-App/sensor-app/SensorGameApp/app/src/main/res/values/strings.xml",
+                    "file": "/home/deepakgupta/Videos/git_MssSensorGame/MssSensorGameApp/SensorGameApp/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -433,7 +220,7 @@
                     "endOffset": 633
                 },
                 "from": {
-                    "file": "/home/deepakgupta/Videos/Sensor-App/sensor-app/SensorGameApp/app/src/main/res/values/strings.xml",
+                    "file": "/home/deepakgupta/Videos/git_MssSensorGame/MssSensorGameApp/SensorGameApp/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -452,7 +239,7 @@
                     "endOffset": 708
                 },
                 "from": {
-                    "file": "/home/deepakgupta/Videos/Sensor-App/sensor-app/SensorGameApp/app/src/main/res/values/strings.xml",
+                    "file": "/home/deepakgupta/Videos/git_MssSensorGame/MssSensorGameApp/SensorGameApp/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -471,7 +258,7 @@
                     "endOffset": 748
                 },
                 "from": {
-                    "file": "/home/deepakgupta/Videos/Sensor-App/sensor-app/SensorGameApp/app/src/main/res/values/strings.xml",
+                    "file": "/home/deepakgupta/Videos/git_MssSensorGame/MssSensorGameApp/SensorGameApp/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -491,7 +278,7 @@
                     "endOffset": 1039
                 },
                 "from": {
-                    "file": "/home/deepakgupta/Videos/Sensor-App/sensor-app/SensorGameApp/app/src/main/res/values/styles.xml",
+                    "file": "/home/deepakgupta/Videos/git_MssSensorGame/MssSensorGameApp/SensorGameApp/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -512,7 +299,7 @@
                     "endOffset": 1199
                 },
                 "from": {
-                    "file": "/home/deepakgupta/Videos/Sensor-App/sensor-app/SensorGameApp/app/src/main/res/values/styles.xml",
+                    "file": "/home/deepakgupta/Videos/git_MssSensorGame/MssSensorGameApp/SensorGameApp/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,

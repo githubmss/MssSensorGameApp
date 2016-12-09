@@ -1,10 +1,6 @@
 [
     {
-        "merged": "/home/deepakgupta/Videos/Sensor-App/sensor-app/SensorGameApp/app/build/intermediates/res/merged/debug/menu/main.xml",
-        "source": "/home/deepakgupta/Videos/Sensor-App/sensor-app/SensorGameApp/app/src/main/res/menu/main.xml"
-    },
-    {
-        "merged": "/home/deepakgupta/Videos/Sensor-App/SensorGameApp/app/build/intermediates/res/merged/debug/menu/main.xml",
-        "source": "/home/deepakgupta/Videos/Sensor-App/SensorGameApp/app/src/main/res/menu/main.xml"
+        "merged": "/home/deepakgupta/Videos/git_MssSensorGame/MssSensorGameApp/SensorGameApp/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/deepakgupta/Videos/git_MssSensorGame/MssSensorGameApp/SensorGameApp/app/src/main/res/menu/main.xml"
     }
 ]

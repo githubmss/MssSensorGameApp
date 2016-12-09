@@ -2,31 +2,49 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="/home/deepakgupta/Videos/Sensor-App/sensor-app/SensorGameApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
-        <dex dex="/home/deepakgupta/Videos/Sensor-App/sensor-app/SensorGameApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_270f300a8f3ecda717cb402bc7af045a836c5b5a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/deepakgupta/Videos/Sensor-App/sensor-app/SensorGameApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
-        <dex dex="/home/deepakgupta/Videos/Sensor-App/sensor-app/SensorGameApp/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_95511f53b993e982562aa0f0a4dfd6cc4d077a6a.jar" />
-    </item>
-    <item
-        is-multidex="false"
+        is-multidex="true"
         jar="/home/deepakgupta/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
-        jumboMode="false"
+        jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
-        <dex dex="/home/deepakgupta/Videos/Sensor-App/sensor-app/SensorGameApp/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_82b320b485f0b9e62b453e0e0a95b78fc385d246.jar" />
+        <dex dex="/home/deepakgupta/Videos/git_MssSensorGame/MssSensorGameApp/SensorGameApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_82b320b485f0b9e62b453e0e0a95b78fc385d246/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/deepakgupta/Videos/git_MssSensorGame/MssSensorGameApp/SensorGameApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a243ab93863c7c4986ceeef7253e0d9d8db8941c">
+        <dex dex="/home/deepakgupta/Videos/git_MssSensorGame/MssSensorGameApp/SensorGameApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_77d38a293325243cfb7307a872147e6dc9958784/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/deepakgupta/Videos/git_MssSensorGame/MssSensorGameApp/SensorGameApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43dcd24761ad993547c5aca62c12f2f16c65a559">
+        <dex dex="/home/deepakgupta/Videos/git_MssSensorGame/MssSensorGameApp/SensorGameApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_15d42c44dc2a6fa192f2cde234ebe2817d05b7d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/deepakgupta/Videos/git_MssSensorGame/MssSensorGameApp/SensorGameApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/deepakgupta/Videos/git_MssSensorGame/MssSensorGameApp/SensorGameApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_eb5861e8ccd04c98b9ed1b510d45cb359a1185a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/deepakgupta/Videos/git_MssSensorGame/MssSensorGameApp/SensorGameApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/deepakgupta/Videos/git_MssSensorGame/MssSensorGameApp/SensorGameApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_647ea3ce2a8defea62567373a5b71cf5a2cf098f/classes.dex" />
     </item>
 
 </items>

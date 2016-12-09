@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi,armeabi-v7a"
+    api-level="22"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="17020154026993"
+    token="712649913918718360"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <build
+        timestamp="16860306241804"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/home/deepakgupta/Videos/git_MssSensorGame/MssSensorGameApp/SensorGameApp/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="17020154026993"
+        verifier="COLD_SWAP_REQUESTED" />
+
+</instant-run>

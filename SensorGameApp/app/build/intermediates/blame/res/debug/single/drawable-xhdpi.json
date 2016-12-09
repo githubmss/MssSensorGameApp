@@ -1,18 +1,14 @@
 [
     {
-        "merged": "/home/deepakgupta/Videos/Sensor-App/SensorGameApp/app/build/intermediates/res/merged/debug/drawable-xhdpi/mss.png",
-        "source": "/home/deepakgupta/Videos/Sensor-App/SensorGameApp/app/src/main/res/drawable-xhdpi/mss.png"
+        "merged": "/home/deepakgupta/Videos/git_MssSensorGame/MssSensorGameApp/SensorGameApp/app/build/intermediates/res/merged/debug/drawable-xhdpi/mss.png",
+        "source": "/home/deepakgupta/Videos/git_MssSensorGame/MssSensorGameApp/SensorGameApp/app/src/main/res/drawable-xhdpi/mss.png"
     },
     {
-        "merged": "/home/deepakgupta/Videos/Sensor-App/sensor-app/SensorGameApp/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
-        "source": "/home/deepakgupta/Videos/Sensor-App/sensor-app/SensorGameApp/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+        "merged": "/home/deepakgupta/Videos/git_MssSensorGame/MssSensorGameApp/SensorGameApp/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/home/deepakgupta/Videos/git_MssSensorGame/MssSensorGameApp/SensorGameApp/app/src/main/res/drawable-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/deepakgupta/Videos/Sensor-App/sensor-app/SensorGameApp/app/build/intermediates/res/merged/debug/drawable-xhdpi/splash.png",
-        "source": "/home/deepakgupta/Videos/Sensor-App/sensor-app/SensorGameApp/app/src/main/res/drawable-xhdpi/splash.png"
-    },
-    {
-        "merged": "/home/deepakgupta/Videos/Sensor-App/sensor-app/SensorGameApp/app/build/intermediates/res/merged/debug/drawable-xhdpi/mss.png",
-        "source": "/home/deepakgupta/Videos/Sensor-App/sensor-app/SensorGameApp/app/src/main/res/drawable-xhdpi/mss.png"
+        "merged": "/home/deepakgupta/Videos/git_MssSensorGame/MssSensorGameApp/SensorGameApp/app/build/intermediates/res/merged/debug/drawable-xhdpi/splash.png",
+        "source": "/home/deepakgupta/Videos/git_MssSensorGame/MssSensorGameApp/SensorGameApp/app/src/main/res/drawable-xhdpi/splash.png"
     }
 ]
